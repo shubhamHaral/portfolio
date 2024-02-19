@@ -1,0 +1,19 @@
+.p {
+
+    background-color: rgb(30, 30, 30); 
+    height: 700px;
+    width: 100%;
+    position: absolute;
+    margin-top: 2550px;
+}
+
+.edu{
+    color: yellow;
+    position: absolute;
+    margin-top: 38px;
+    font-size: 3rem;
+    margin-left: 43%;
+    align-items: center;
+    justify-content: center;
+
+}

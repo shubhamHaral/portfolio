@@ -1,0 +1,25 @@
+.AboutIntro {
+    height: 100vh;
+    margin-top: 40px;
+    width: 40vw;
+    margin-left: 550px;
+    padding: -3rem;
+    font-size: 1rem;
+    font-weight: 500;
+    top: 749px;
+    display: flex;
+    border: 2px solid red;
+    flex-direction: column;
+    justify-content: center;
+    position: absolute;
+}
+
+h1{
+  color: yellow;
+    align-items: center;
+    justify-content: center;
+    font-size: medium;
+    font-weight: 300;
+    letter-spacing: 1px;
+
+}
